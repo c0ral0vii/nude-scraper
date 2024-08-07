@@ -1,0 +1,7 @@
+selenium
+requests
+botocore
+boto3
+
+pydantic
+pydantic_settings
