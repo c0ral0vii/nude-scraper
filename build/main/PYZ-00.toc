@@ -1,0 +1,2267 @@
+('/home/pavel/Рабочий стол/projects/nude-scraper/build/main/PYZ-00.pyz',
+ [('__future__', '/usr/lib/python3.12/__future__.py', 'PYMODULE'),
+  ('_aix_support', '/usr/lib/python3.12/_aix_support.py', 'PYMODULE'),
+  ('_compat_pickle', '/usr/lib/python3.12/_compat_pickle.py', 'PYMODULE'),
+  ('_compression', '/usr/lib/python3.12/_compression.py', 'PYMODULE'),
+  ('_markupbase', '/usr/lib/python3.12/_markupbase.py', 'PYMODULE'),
+  ('_py_abc', '/usr/lib/python3.12/_py_abc.py', 'PYMODULE'),
+  ('_pydatetime', '/usr/lib/python3.12/_pydatetime.py', 'PYMODULE'),
+  ('_pydecimal', '/usr/lib/python3.12/_pydecimal.py', 'PYMODULE'),
+  ('_pyi_rth_utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/PyInstaller/fake-modules/_pyi_rth_utils/__init__.py',
+   'PYMODULE'),
+  ('_strptime', '/usr/lib/python3.12/_strptime.py', 'PYMODULE'),
+  ('_sysconfigdata__x86_64-linux-gnu',
+   '/usr/lib/python3.12/_sysconfigdata__x86_64-linux-gnu.py',
+   'PYMODULE'),
+  ('_threading_local', '/usr/lib/python3.12/_threading_local.py', 'PYMODULE'),
+  ('annotated_types',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/annotated_types/__init__.py',
+   'PYMODULE'),
+  ('argparse', '/usr/lib/python3.12/argparse.py', 'PYMODULE'),
+  ('ast', '/usr/lib/python3.12/ast.py', 'PYMODULE'),
+  ('backports',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/backports/__init__.py',
+   'PYMODULE'),
+  ('backports.tarfile',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/__init__.py',
+   'PYMODULE'),
+  ('backports.tarfile.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/compat/__init__.py',
+   'PYMODULE'),
+  ('backports.tarfile.compat.py38',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/backports/tarfile/compat/py38.py',
+   'PYMODULE'),
+  ('base64', '/usr/lib/python3.12/base64.py', 'PYMODULE'),
+  ('bisect', '/usr/lib/python3.12/bisect.py', 'PYMODULE'),
+  ('boto3',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/__init__.py',
+   'PYMODULE'),
+  ('boto3.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/compat.py',
+   'PYMODULE'),
+  ('boto3.crt',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/crt.py',
+   'PYMODULE'),
+  ('boto3.docs',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/__init__.py',
+   'PYMODULE'),
+  ('boto3.docs.action',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/action.py',
+   'PYMODULE'),
+  ('boto3.docs.attr',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/attr.py',
+   'PYMODULE'),
+  ('boto3.docs.base',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/base.py',
+   'PYMODULE'),
+  ('boto3.docs.client',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/client.py',
+   'PYMODULE'),
+  ('boto3.docs.collection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/collection.py',
+   'PYMODULE'),
+  ('boto3.docs.docstring',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/docstring.py',
+   'PYMODULE'),
+  ('boto3.docs.method',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/method.py',
+   'PYMODULE'),
+  ('boto3.docs.resource',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/resource.py',
+   'PYMODULE'),
+  ('boto3.docs.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/service.py',
+   'PYMODULE'),
+  ('boto3.docs.subresource',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/subresource.py',
+   'PYMODULE'),
+  ('boto3.docs.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/utils.py',
+   'PYMODULE'),
+  ('boto3.docs.waiter',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/docs/waiter.py',
+   'PYMODULE'),
+  ('boto3.dynamodb',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/dynamodb/__init__.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.conditions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/dynamodb/conditions.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.table',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/dynamodb/table.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.transform',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/dynamodb/transform.py',
+   'PYMODULE'),
+  ('boto3.dynamodb.types',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/dynamodb/types.py',
+   'PYMODULE'),
+  ('boto3.ec2',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/ec2/__init__.py',
+   'PYMODULE'),
+  ('boto3.ec2.createtags',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/ec2/createtags.py',
+   'PYMODULE'),
+  ('boto3.ec2.deletetags',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/ec2/deletetags.py',
+   'PYMODULE'),
+  ('boto3.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/exceptions.py',
+   'PYMODULE'),
+  ('boto3.resources',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/__init__.py',
+   'PYMODULE'),
+  ('boto3.resources.action',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/action.py',
+   'PYMODULE'),
+  ('boto3.resources.base',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/base.py',
+   'PYMODULE'),
+  ('boto3.resources.collection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/collection.py',
+   'PYMODULE'),
+  ('boto3.resources.factory',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/factory.py',
+   'PYMODULE'),
+  ('boto3.resources.model',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/model.py',
+   'PYMODULE'),
+  ('boto3.resources.params',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/params.py',
+   'PYMODULE'),
+  ('boto3.resources.response',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/resources/response.py',
+   'PYMODULE'),
+  ('boto3.s3',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/s3/__init__.py',
+   'PYMODULE'),
+  ('boto3.s3.constants',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/s3/constants.py',
+   'PYMODULE'),
+  ('boto3.s3.inject',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/s3/inject.py',
+   'PYMODULE'),
+  ('boto3.s3.transfer',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/s3/transfer.py',
+   'PYMODULE'),
+  ('boto3.session',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/session.py',
+   'PYMODULE'),
+  ('boto3.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/boto3/utils.py',
+   'PYMODULE'),
+  ('botocore',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/__init__.py',
+   'PYMODULE'),
+  ('botocore.args',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/args.py',
+   'PYMODULE'),
+  ('botocore.auth',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/auth.py',
+   'PYMODULE'),
+  ('botocore.awsrequest',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/awsrequest.py',
+   'PYMODULE'),
+  ('botocore.client',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/client.py',
+   'PYMODULE'),
+  ('botocore.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/compat.py',
+   'PYMODULE'),
+  ('botocore.compress',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/compress.py',
+   'PYMODULE'),
+  ('botocore.config',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/config.py',
+   'PYMODULE'),
+  ('botocore.configloader',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/configloader.py',
+   'PYMODULE'),
+  ('botocore.configprovider',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/configprovider.py',
+   'PYMODULE'),
+  ('botocore.credentials',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/credentials.py',
+   'PYMODULE'),
+  ('botocore.crt',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/crt/__init__.py',
+   'PYMODULE'),
+  ('botocore.crt.auth',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/crt/auth.py',
+   'PYMODULE'),
+  ('botocore.discovery',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/discovery.py',
+   'PYMODULE'),
+  ('botocore.docs',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/__init__.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/bcdoc/__init__.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc.docstringparser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/bcdoc/docstringparser.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc.restdoc',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/bcdoc/restdoc.py',
+   'PYMODULE'),
+  ('botocore.docs.bcdoc.style',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/bcdoc/style.py',
+   'PYMODULE'),
+  ('botocore.docs.client',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/client.py',
+   'PYMODULE'),
+  ('botocore.docs.docstring',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/docstring.py',
+   'PYMODULE'),
+  ('botocore.docs.example',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/example.py',
+   'PYMODULE'),
+  ('botocore.docs.method',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/method.py',
+   'PYMODULE'),
+  ('botocore.docs.paginator',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/paginator.py',
+   'PYMODULE'),
+  ('botocore.docs.params',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/params.py',
+   'PYMODULE'),
+  ('botocore.docs.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/service.py',
+   'PYMODULE'),
+  ('botocore.docs.shape',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/shape.py',
+   'PYMODULE'),
+  ('botocore.docs.sharedexample',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/sharedexample.py',
+   'PYMODULE'),
+  ('botocore.docs.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/utils.py',
+   'PYMODULE'),
+  ('botocore.docs.waiter',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/docs/waiter.py',
+   'PYMODULE'),
+  ('botocore.endpoint',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/endpoint.py',
+   'PYMODULE'),
+  ('botocore.endpoint_provider',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/endpoint_provider.py',
+   'PYMODULE'),
+  ('botocore.errorfactory',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/errorfactory.py',
+   'PYMODULE'),
+  ('botocore.eventstream',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/eventstream.py',
+   'PYMODULE'),
+  ('botocore.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/exceptions.py',
+   'PYMODULE'),
+  ('botocore.handlers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/handlers.py',
+   'PYMODULE'),
+  ('botocore.history',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/history.py',
+   'PYMODULE'),
+  ('botocore.hooks',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/hooks.py',
+   'PYMODULE'),
+  ('botocore.httpchecksum',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/httpchecksum.py',
+   'PYMODULE'),
+  ('botocore.httpsession',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/httpsession.py',
+   'PYMODULE'),
+  ('botocore.loaders',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/loaders.py',
+   'PYMODULE'),
+  ('botocore.model',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/model.py',
+   'PYMODULE'),
+  ('botocore.monitoring',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/monitoring.py',
+   'PYMODULE'),
+  ('botocore.paginate',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/paginate.py',
+   'PYMODULE'),
+  ('botocore.parsers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/parsers.py',
+   'PYMODULE'),
+  ('botocore.regions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/regions.py',
+   'PYMODULE'),
+  ('botocore.response',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/response.py',
+   'PYMODULE'),
+  ('botocore.retries',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/__init__.py',
+   'PYMODULE'),
+  ('botocore.retries.adaptive',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/adaptive.py',
+   'PYMODULE'),
+  ('botocore.retries.base',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/base.py',
+   'PYMODULE'),
+  ('botocore.retries.bucket',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/bucket.py',
+   'PYMODULE'),
+  ('botocore.retries.quota',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/quota.py',
+   'PYMODULE'),
+  ('botocore.retries.special',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/special.py',
+   'PYMODULE'),
+  ('botocore.retries.standard',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/standard.py',
+   'PYMODULE'),
+  ('botocore.retries.throttling',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retries/throttling.py',
+   'PYMODULE'),
+  ('botocore.retryhandler',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/retryhandler.py',
+   'PYMODULE'),
+  ('botocore.serialize',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/serialize.py',
+   'PYMODULE'),
+  ('botocore.session',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/session.py',
+   'PYMODULE'),
+  ('botocore.signers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/signers.py',
+   'PYMODULE'),
+  ('botocore.tokens',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/tokens.py',
+   'PYMODULE'),
+  ('botocore.translate',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/translate.py',
+   'PYMODULE'),
+  ('botocore.useragent',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/useragent.py',
+   'PYMODULE'),
+  ('botocore.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/utils.py',
+   'PYMODULE'),
+  ('botocore.validate',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/validate.py',
+   'PYMODULE'),
+  ('botocore.vendored',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/requests/__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/requests/exceptions.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.packages',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/requests/packages/__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.packages.urllib3',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/requests/packages/urllib3/__init__.py',
+   'PYMODULE'),
+  ('botocore.vendored.requests.packages.urllib3.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/requests/packages/urllib3/exceptions.py',
+   'PYMODULE'),
+  ('botocore.vendored.six',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/vendored/six.py',
+   'PYMODULE'),
+  ('botocore.waiter',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/botocore/waiter.py',
+   'PYMODULE'),
+  ('browser', '-', 'PYMODULE'),
+  ('browser.download',
+   '/home/pavel/Рабочий стол/projects/nude-scraper/browser/download.py',
+   'PYMODULE'),
+  ('browser.main',
+   '/home/pavel/Рабочий стол/projects/nude-scraper/browser/main.py',
+   'PYMODULE'),
+  ('bz2', '/usr/lib/python3.12/bz2.py', 'PYMODULE'),
+  ('calendar', '/usr/lib/python3.12/calendar.py', 'PYMODULE'),
+  ('certifi',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/certifi/__init__.py',
+   'PYMODULE'),
+  ('certifi.core',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/certifi/core.py',
+   'PYMODULE'),
+  ('charset_normalizer',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/__init__.py',
+   'PYMODULE'),
+  ('charset_normalizer.api',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/api.py',
+   'PYMODULE'),
+  ('charset_normalizer.cd',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/cd.py',
+   'PYMODULE'),
+  ('charset_normalizer.constant',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/constant.py',
+   'PYMODULE'),
+  ('charset_normalizer.legacy',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/legacy.py',
+   'PYMODULE'),
+  ('charset_normalizer.models',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/models.py',
+   'PYMODULE'),
+  ('charset_normalizer.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/utils.py',
+   'PYMODULE'),
+  ('charset_normalizer.version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/charset_normalizer/version.py',
+   'PYMODULE'),
+  ('colorsys', '/usr/lib/python3.12/colorsys.py', 'PYMODULE'),
+  ('concurrent', '/usr/lib/python3.12/concurrent/__init__.py', 'PYMODULE'),
+  ('concurrent.futures',
+   '/usr/lib/python3.12/concurrent/futures/__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   '/usr/lib/python3.12/concurrent/futures/_base.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   '/usr/lib/python3.12/concurrent/futures/process.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   '/usr/lib/python3.12/concurrent/futures/thread.py',
+   'PYMODULE'),
+  ('config', '-', 'PYMODULE'),
+  ('config.clear_temp',
+   '/home/pavel/Рабочий стол/projects/nude-scraper/config/clear_temp.py',
+   'PYMODULE'),
+  ('config.config',
+   '/home/pavel/Рабочий стол/projects/nude-scraper/config/config.py',
+   'PYMODULE'),
+  ('config.logger_config',
+   '/home/pavel/Рабочий стол/projects/nude-scraper/config/logger_config.py',
+   'PYMODULE'),
+  ('configparser', '/usr/lib/python3.12/configparser.py', 'PYMODULE'),
+  ('contextlib', '/usr/lib/python3.12/contextlib.py', 'PYMODULE'),
+  ('contextvars', '/usr/lib/python3.12/contextvars.py', 'PYMODULE'),
+  ('copy', '/usr/lib/python3.12/copy.py', 'PYMODULE'),
+  ('csv', '/usr/lib/python3.12/csv.py', 'PYMODULE'),
+  ('ctypes', '/usr/lib/python3.12/ctypes/__init__.py', 'PYMODULE'),
+  ('ctypes._endian', '/usr/lib/python3.12/ctypes/_endian.py', 'PYMODULE'),
+  ('ctypes.wintypes', '/usr/lib/python3.12/ctypes/wintypes.py', 'PYMODULE'),
+  ('dataclasses', '/usr/lib/python3.12/dataclasses.py', 'PYMODULE'),
+  ('datetime', '/usr/lib/python3.12/datetime.py', 'PYMODULE'),
+  ('dateutil',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/__init__.py',
+   'PYMODULE'),
+  ('dateutil._common',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/_common.py',
+   'PYMODULE'),
+  ('dateutil._version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/_version.py',
+   'PYMODULE'),
+  ('dateutil.easter',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/easter.py',
+   'PYMODULE'),
+  ('dateutil.parser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/parser/__init__.py',
+   'PYMODULE'),
+  ('dateutil.parser._parser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/parser/_parser.py',
+   'PYMODULE'),
+  ('dateutil.parser.isoparser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/parser/isoparser.py',
+   'PYMODULE'),
+  ('dateutil.relativedelta',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/relativedelta.py',
+   'PYMODULE'),
+  ('dateutil.rrule',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/rrule.py',
+   'PYMODULE'),
+  ('dateutil.tz',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/tz/__init__.py',
+   'PYMODULE'),
+  ('dateutil.tz._common',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/tz/_common.py',
+   'PYMODULE'),
+  ('dateutil.tz._factories',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/tz/_factories.py',
+   'PYMODULE'),
+  ('dateutil.tz.tz',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/tz/tz.py',
+   'PYMODULE'),
+  ('dateutil.tz.win',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/tz/win.py',
+   'PYMODULE'),
+  ('dateutil.zoneinfo',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dateutil/zoneinfo/__init__.py',
+   'PYMODULE'),
+  ('decimal', '/usr/lib/python3.12/decimal.py', 'PYMODULE'),
+  ('dis', '/usr/lib/python3.12/dis.py', 'PYMODULE'),
+  ('dotenv',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dotenv/__init__.py',
+   'PYMODULE'),
+  ('dotenv.ipython',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dotenv/ipython.py',
+   'PYMODULE'),
+  ('dotenv.main',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dotenv/main.py',
+   'PYMODULE'),
+  ('dotenv.parser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dotenv/parser.py',
+   'PYMODULE'),
+  ('dotenv.variables',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/dotenv/variables.py',
+   'PYMODULE'),
+  ('email', '/usr/lib/python3.12/email/__init__.py', 'PYMODULE'),
+  ('email._encoded_words',
+   '/usr/lib/python3.12/email/_encoded_words.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   '/usr/lib/python3.12/email/_header_value_parser.py',
+   'PYMODULE'),
+  ('email._parseaddr', '/usr/lib/python3.12/email/_parseaddr.py', 'PYMODULE'),
+  ('email._policybase', '/usr/lib/python3.12/email/_policybase.py', 'PYMODULE'),
+  ('email.base64mime', '/usr/lib/python3.12/email/base64mime.py', 'PYMODULE'),
+  ('email.charset', '/usr/lib/python3.12/email/charset.py', 'PYMODULE'),
+  ('email.contentmanager',
+   '/usr/lib/python3.12/email/contentmanager.py',
+   'PYMODULE'),
+  ('email.encoders', '/usr/lib/python3.12/email/encoders.py', 'PYMODULE'),
+  ('email.errors', '/usr/lib/python3.12/email/errors.py', 'PYMODULE'),
+  ('email.feedparser', '/usr/lib/python3.12/email/feedparser.py', 'PYMODULE'),
+  ('email.generator', '/usr/lib/python3.12/email/generator.py', 'PYMODULE'),
+  ('email.header', '/usr/lib/python3.12/email/header.py', 'PYMODULE'),
+  ('email.headerregistry',
+   '/usr/lib/python3.12/email/headerregistry.py',
+   'PYMODULE'),
+  ('email.iterators', '/usr/lib/python3.12/email/iterators.py', 'PYMODULE'),
+  ('email.message', '/usr/lib/python3.12/email/message.py', 'PYMODULE'),
+  ('email.parser', '/usr/lib/python3.12/email/parser.py', 'PYMODULE'),
+  ('email.policy', '/usr/lib/python3.12/email/policy.py', 'PYMODULE'),
+  ('email.quoprimime', '/usr/lib/python3.12/email/quoprimime.py', 'PYMODULE'),
+  ('email.utils', '/usr/lib/python3.12/email/utils.py', 'PYMODULE'),
+  ('fake_useragent',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/fake_useragent/__init__.py',
+   'PYMODULE'),
+  ('fake_useragent.errors',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/fake_useragent/errors.py',
+   'PYMODULE'),
+  ('fake_useragent.fake',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/fake_useragent/fake.py',
+   'PYMODULE'),
+  ('fake_useragent.log',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/fake_useragent/log.py',
+   'PYMODULE'),
+  ('fake_useragent.settings',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/fake_useragent/settings.py',
+   'PYMODULE'),
+  ('fake_useragent.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/fake_useragent/utils.py',
+   'PYMODULE'),
+  ('fnmatch', '/usr/lib/python3.12/fnmatch.py', 'PYMODULE'),
+  ('fractions', '/usr/lib/python3.12/fractions.py', 'PYMODULE'),
+  ('ftplib', '/usr/lib/python3.12/ftplib.py', 'PYMODULE'),
+  ('getopt', '/usr/lib/python3.12/getopt.py', 'PYMODULE'),
+  ('getpass', '/usr/lib/python3.12/getpass.py', 'PYMODULE'),
+  ('gettext', '/usr/lib/python3.12/gettext.py', 'PYMODULE'),
+  ('gzip', '/usr/lib/python3.12/gzip.py', 'PYMODULE'),
+  ('hashlib', '/usr/lib/python3.12/hashlib.py', 'PYMODULE'),
+  ('hmac', '/usr/lib/python3.12/hmac.py', 'PYMODULE'),
+  ('html', '/usr/lib/python3.12/html/__init__.py', 'PYMODULE'),
+  ('html.entities', '/usr/lib/python3.12/html/entities.py', 'PYMODULE'),
+  ('html.parser', '/usr/lib/python3.12/html/parser.py', 'PYMODULE'),
+  ('http', '/usr/lib/python3.12/http/__init__.py', 'PYMODULE'),
+  ('http.client', '/usr/lib/python3.12/http/client.py', 'PYMODULE'),
+  ('http.cookiejar', '/usr/lib/python3.12/http/cookiejar.py', 'PYMODULE'),
+  ('http.cookies', '/usr/lib/python3.12/http/cookies.py', 'PYMODULE'),
+  ('idna',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/idna/__init__.py',
+   'PYMODULE'),
+  ('idna.core',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/idna/core.py',
+   'PYMODULE'),
+  ('idna.idnadata',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/idna/idnadata.py',
+   'PYMODULE'),
+  ('idna.intranges',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/idna/intranges.py',
+   'PYMODULE'),
+  ('idna.package_data',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/idna/package_data.py',
+   'PYMODULE'),
+  ('idna.uts46data',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/idna/uts46data.py',
+   'PYMODULE'),
+  ('importlib', '/usr/lib/python3.12/importlib/__init__.py', 'PYMODULE'),
+  ('importlib._abc', '/usr/lib/python3.12/importlib/_abc.py', 'PYMODULE'),
+  ('importlib._bootstrap',
+   '/usr/lib/python3.12/importlib/_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   '/usr/lib/python3.12/importlib/_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.abc', '/usr/lib/python3.12/importlib/abc.py', 'PYMODULE'),
+  ('importlib.machinery',
+   '/usr/lib/python3.12/importlib/machinery.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   '/usr/lib/python3.12/importlib/metadata/__init__.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   '/usr/lib/python3.12/importlib/metadata/_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   '/usr/lib/python3.12/importlib/metadata/_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   '/usr/lib/python3.12/importlib/metadata/_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   '/usr/lib/python3.12/importlib/metadata/_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   '/usr/lib/python3.12/importlib/metadata/_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   '/usr/lib/python3.12/importlib/metadata/_text.py',
+   'PYMODULE'),
+  ('importlib.readers', '/usr/lib/python3.12/importlib/readers.py', 'PYMODULE'),
+  ('importlib.resources',
+   '/usr/lib/python3.12/importlib/resources/__init__.py',
+   'PYMODULE'),
+  ('importlib.resources._adapters',
+   '/usr/lib/python3.12/importlib/resources/_adapters.py',
+   'PYMODULE'),
+  ('importlib.resources._common',
+   '/usr/lib/python3.12/importlib/resources/_common.py',
+   'PYMODULE'),
+  ('importlib.resources._itertools',
+   '/usr/lib/python3.12/importlib/resources/_itertools.py',
+   'PYMODULE'),
+  ('importlib.resources._legacy',
+   '/usr/lib/python3.12/importlib/resources/_legacy.py',
+   'PYMODULE'),
+  ('importlib.resources.abc',
+   '/usr/lib/python3.12/importlib/resources/abc.py',
+   'PYMODULE'),
+  ('importlib.resources.readers',
+   '/usr/lib/python3.12/importlib/resources/readers.py',
+   'PYMODULE'),
+  ('importlib.util', '/usr/lib/python3.12/importlib/util.py', 'PYMODULE'),
+  ('importlib_metadata',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata._adapters',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_adapters.py',
+   'PYMODULE'),
+  ('importlib_metadata._collections',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_collections.py',
+   'PYMODULE'),
+  ('importlib_metadata._compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_compat.py',
+   'PYMODULE'),
+  ('importlib_metadata._functools',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_functools.py',
+   'PYMODULE'),
+  ('importlib_metadata._itertools',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_itertools.py',
+   'PYMODULE'),
+  ('importlib_metadata._meta',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_meta.py',
+   'PYMODULE'),
+  ('importlib_metadata._text',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/_text.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/__init__.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py311',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/py311.py',
+   'PYMODULE'),
+  ('importlib_metadata.compat.py39',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_metadata/compat/py39.py',
+   'PYMODULE'),
+  ('importlib_resources',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/__init__.py',
+   'PYMODULE'),
+  ('importlib_resources._adapters',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/_adapters.py',
+   'PYMODULE'),
+  ('importlib_resources._common',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/_common.py',
+   'PYMODULE'),
+  ('importlib_resources._itertools',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/_itertools.py',
+   'PYMODULE'),
+  ('importlib_resources.abc',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/abc.py',
+   'PYMODULE'),
+  ('importlib_resources.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/compat/__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.compat.py38',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/compat/py38.py',
+   'PYMODULE'),
+  ('importlib_resources.compat.py39',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/compat/py39.py',
+   'PYMODULE'),
+  ('importlib_resources.functional',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/functional.py',
+   'PYMODULE'),
+  ('importlib_resources.future',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/future/__init__.py',
+   'PYMODULE'),
+  ('importlib_resources.future.adapters',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/future/adapters.py',
+   'PYMODULE'),
+  ('importlib_resources.readers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/importlib_resources/readers.py',
+   'PYMODULE'),
+  ('inspect', '/usr/lib/python3.12/inspect.py', 'PYMODULE'),
+  ('ipaddress', '/usr/lib/python3.12/ipaddress.py', 'PYMODULE'),
+  ('jaraco', '-', 'PYMODULE'),
+  ('jaraco.context',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco/context.py',
+   'PYMODULE'),
+  ('jaraco.functools',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco/functools/__init__.py',
+   'PYMODULE'),
+  ('jaraco.text',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/jaraco/text/__init__.py',
+   'PYMODULE'),
+  ('jmespath',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/__init__.py',
+   'PYMODULE'),
+  ('jmespath.ast',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/ast.py',
+   'PYMODULE'),
+  ('jmespath.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/compat.py',
+   'PYMODULE'),
+  ('jmespath.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/exceptions.py',
+   'PYMODULE'),
+  ('jmespath.functions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/functions.py',
+   'PYMODULE'),
+  ('jmespath.lexer',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/lexer.py',
+   'PYMODULE'),
+  ('jmespath.parser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/parser.py',
+   'PYMODULE'),
+  ('jmespath.visitor',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/jmespath/visitor.py',
+   'PYMODULE'),
+  ('json', '/usr/lib/python3.12/json/__init__.py', 'PYMODULE'),
+  ('json.decoder', '/usr/lib/python3.12/json/decoder.py', 'PYMODULE'),
+  ('json.encoder', '/usr/lib/python3.12/json/encoder.py', 'PYMODULE'),
+  ('json.scanner', '/usr/lib/python3.12/json/scanner.py', 'PYMODULE'),
+  ('logging', '/usr/lib/python3.12/logging/__init__.py', 'PYMODULE'),
+  ('lzma', '/usr/lib/python3.12/lzma.py', 'PYMODULE'),
+  ('mimetypes', '/usr/lib/python3.12/mimetypes.py', 'PYMODULE'),
+  ('more_itertools',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/more_itertools/__init__.py',
+   'PYMODULE'),
+  ('more_itertools.more',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/more_itertools/more.py',
+   'PYMODULE'),
+  ('more_itertools.recipes',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/more_itertools/recipes.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   '/usr/lib/python3.12/multiprocessing/__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   '/usr/lib/python3.12/multiprocessing/connection.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   '/usr/lib/python3.12/multiprocessing/context.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   '/usr/lib/python3.12/multiprocessing/dummy/__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   '/usr/lib/python3.12/multiprocessing/dummy/connection.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   '/usr/lib/python3.12/multiprocessing/forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   '/usr/lib/python3.12/multiprocessing/heap.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   '/usr/lib/python3.12/multiprocessing/managers.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   '/usr/lib/python3.12/multiprocessing/pool.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   '/usr/lib/python3.12/multiprocessing/popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   '/usr/lib/python3.12/multiprocessing/popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   '/usr/lib/python3.12/multiprocessing/popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   '/usr/lib/python3.12/multiprocessing/popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   '/usr/lib/python3.12/multiprocessing/process.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   '/usr/lib/python3.12/multiprocessing/queues.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   '/usr/lib/python3.12/multiprocessing/reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   '/usr/lib/python3.12/multiprocessing/resource_sharer.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   '/usr/lib/python3.12/multiprocessing/resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   '/usr/lib/python3.12/multiprocessing/shared_memory.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   '/usr/lib/python3.12/multiprocessing/sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   '/usr/lib/python3.12/multiprocessing/spawn.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   '/usr/lib/python3.12/multiprocessing/synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   '/usr/lib/python3.12/multiprocessing/util.py',
+   'PYMODULE'),
+  ('netrc', '/usr/lib/python3.12/netrc.py', 'PYMODULE'),
+  ('nturl2path', '/usr/lib/python3.12/nturl2path.py', 'PYMODULE'),
+  ('numbers', '/usr/lib/python3.12/numbers.py', 'PYMODULE'),
+  ('opcode', '/usr/lib/python3.12/opcode.py', 'PYMODULE'),
+  ('packaging',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/__init__.py',
+   'PYMODULE'),
+  ('packaging._elffile',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/_elffile.py',
+   'PYMODULE'),
+  ('packaging._manylinux',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/_manylinux.py',
+   'PYMODULE'),
+  ('packaging._musllinux',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/_musllinux.py',
+   'PYMODULE'),
+  ('packaging._parser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/_parser.py',
+   'PYMODULE'),
+  ('packaging._structures',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/_structures.py',
+   'PYMODULE'),
+  ('packaging._tokenizer',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/_tokenizer.py',
+   'PYMODULE'),
+  ('packaging.markers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/markers.py',
+   'PYMODULE'),
+  ('packaging.metadata',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/metadata.py',
+   'PYMODULE'),
+  ('packaging.requirements',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/requirements.py',
+   'PYMODULE'),
+  ('packaging.specifiers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/specifiers.py',
+   'PYMODULE'),
+  ('packaging.tags',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/tags.py',
+   'PYMODULE'),
+  ('packaging.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/utils.py',
+   'PYMODULE'),
+  ('packaging.version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/packaging/version.py',
+   'PYMODULE'),
+  ('pathlib', '/usr/lib/python3.12/pathlib.py', 'PYMODULE'),
+  ('pickle', '/usr/lib/python3.12/pickle.py', 'PYMODULE'),
+  ('pkg_resources',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pkg_resources/__init__.py',
+   'PYMODULE'),
+  ('pkgutil', '/usr/lib/python3.12/pkgutil.py', 'PYMODULE'),
+  ('platform', '/usr/lib/python3.12/platform.py', 'PYMODULE'),
+  ('platformdirs',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/__init__.py',
+   'PYMODULE'),
+  ('platformdirs.android',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/android.py',
+   'PYMODULE'),
+  ('platformdirs.api',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/api.py',
+   'PYMODULE'),
+  ('platformdirs.macos',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/macos.py',
+   'PYMODULE'),
+  ('platformdirs.unix',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/unix.py',
+   'PYMODULE'),
+  ('platformdirs.version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/version.py',
+   'PYMODULE'),
+  ('platformdirs.windows',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/platformdirs/windows.py',
+   'PYMODULE'),
+  ('plistlib', '/usr/lib/python3.12/plistlib.py', 'PYMODULE'),
+  ('pprint', '/usr/lib/python3.12/pprint.py', 'PYMODULE'),
+  ('py_compile', '/usr/lib/python3.12/py_compile.py', 'PYMODULE'),
+  ('pydantic',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/__init__.py',
+   'PYMODULE'),
+  ('pydantic._internal._config',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_config.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_metadata',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_core_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._core_utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_core_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._dataclasses',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_dataclasses.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_decorators.py',
+   'PYMODULE'),
+  ('pydantic._internal._decorators_v1',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_decorators_v1.py',
+   'PYMODULE'),
+  ('pydantic._internal._discriminated_union',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_discriminated_union.py',
+   'PYMODULE'),
+  ('pydantic._internal._docs_extraction',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_docs_extraction.py',
+   'PYMODULE'),
+  ('pydantic._internal._fields',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_fields.py',
+   'PYMODULE'),
+  ('pydantic._internal._forward_ref',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_forward_ref.py',
+   'PYMODULE'),
+  ('pydantic._internal._generate_schema',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_generate_schema.py',
+   'PYMODULE'),
+  ('pydantic._internal._generics',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_generics.py',
+   'PYMODULE'),
+  ('pydantic._internal._git',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_git.py',
+   'PYMODULE'),
+  ('pydantic._internal._internal_dataclass',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_internal_dataclass.py',
+   'PYMODULE'),
+  ('pydantic._internal._known_annotated_metadata',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_known_annotated_metadata.py',
+   'PYMODULE'),
+  ('pydantic._internal._mock_val_ser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_mock_val_ser.py',
+   'PYMODULE'),
+  ('pydantic._internal._model_construction',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_model_construction.py',
+   'PYMODULE'),
+  ('pydantic._internal._repr',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_repr.py',
+   'PYMODULE'),
+  ('pydantic._internal._schema_generation_shared',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_schema_generation_shared.py',
+   'PYMODULE'),
+  ('pydantic._internal._signature',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_signature.py',
+   'PYMODULE'),
+  ('pydantic._internal._std_types_schema',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_std_types_schema.py',
+   'PYMODULE'),
+  ('pydantic._internal._typing_extra',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_typing_extra.py',
+   'PYMODULE'),
+  ('pydantic._internal._utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_utils.py',
+   'PYMODULE'),
+  ('pydantic._internal._validate_call',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_validate_call.py',
+   'PYMODULE'),
+  ('pydantic._internal._validators',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_internal/_validators.py',
+   'PYMODULE'),
+  ('pydantic._migration',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/_migration.py',
+   'PYMODULE'),
+  ('pydantic.aliases',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/aliases.py',
+   'PYMODULE'),
+  ('pydantic.annotated_handlers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/annotated_handlers.py',
+   'PYMODULE'),
+  ('pydantic.color',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/color.py',
+   'PYMODULE'),
+  ('pydantic.config',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/config.py',
+   'PYMODULE'),
+  ('pydantic.dataclasses',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/dataclasses.py',
+   'PYMODULE'),
+  ('pydantic.deprecated',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/__init__.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.class_validators',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/class_validators.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.config',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/config.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.copy_internals',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/copy_internals.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.json',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/json.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.parse',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/parse.py',
+   'PYMODULE'),
+  ('pydantic.deprecated.tools',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/deprecated/tools.py',
+   'PYMODULE'),
+  ('pydantic.errors',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/errors.py',
+   'PYMODULE'),
+  ('pydantic.fields',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/fields.py',
+   'PYMODULE'),
+  ('pydantic.functional_serializers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/functional_serializers.py',
+   'PYMODULE'),
+  ('pydantic.functional_validators',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/functional_validators.py',
+   'PYMODULE'),
+  ('pydantic.json_schema',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/json_schema.py',
+   'PYMODULE'),
+  ('pydantic.main',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/main.py',
+   'PYMODULE'),
+  ('pydantic.networks',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/networks.py',
+   'PYMODULE'),
+  ('pydantic.plugin',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/plugin/__init__.py',
+   'PYMODULE'),
+  ('pydantic.plugin._loader',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/plugin/_loader.py',
+   'PYMODULE'),
+  ('pydantic.plugin._schema_validator',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/plugin/_schema_validator.py',
+   'PYMODULE'),
+  ('pydantic.root_model',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/root_model.py',
+   'PYMODULE'),
+  ('pydantic.type_adapter',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/type_adapter.py',
+   'PYMODULE'),
+  ('pydantic.types',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/types.py',
+   'PYMODULE'),
+  ('pydantic.validate_call_decorator',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/validate_call_decorator.py',
+   'PYMODULE'),
+  ('pydantic.validators',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/validators.py',
+   'PYMODULE'),
+  ('pydantic.version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/version.py',
+   'PYMODULE'),
+  ('pydantic.warnings',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic/warnings.py',
+   'PYMODULE'),
+  ('pydantic_core',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_core/__init__.py',
+   'PYMODULE'),
+  ('pydantic_core.core_schema',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_core/core_schema.py',
+   'PYMODULE'),
+  ('pydantic_settings',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_settings/__init__.py',
+   'PYMODULE'),
+  ('pydantic_settings.main',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_settings/main.py',
+   'PYMODULE'),
+  ('pydantic_settings.sources',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_settings/sources.py',
+   'PYMODULE'),
+  ('pydantic_settings.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_settings/utils.py',
+   'PYMODULE'),
+  ('pydantic_settings.version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/pydantic_settings/version.py',
+   'PYMODULE'),
+  ('queue', '/usr/lib/python3.12/queue.py', 'PYMODULE'),
+  ('quopri', '/usr/lib/python3.12/quopri.py', 'PYMODULE'),
+  ('random', '/usr/lib/python3.12/random.py', 'PYMODULE'),
+  ('requests',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/__init__.py',
+   'PYMODULE'),
+  ('requests.__version__',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/__version__.py',
+   'PYMODULE'),
+  ('requests._internal_utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/_internal_utils.py',
+   'PYMODULE'),
+  ('requests.adapters',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/adapters.py',
+   'PYMODULE'),
+  ('requests.api',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/api.py',
+   'PYMODULE'),
+  ('requests.auth',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/auth.py',
+   'PYMODULE'),
+  ('requests.certs',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/certs.py',
+   'PYMODULE'),
+  ('requests.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/compat.py',
+   'PYMODULE'),
+  ('requests.cookies',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/cookies.py',
+   'PYMODULE'),
+  ('requests.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/exceptions.py',
+   'PYMODULE'),
+  ('requests.hooks',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/hooks.py',
+   'PYMODULE'),
+  ('requests.models',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/models.py',
+   'PYMODULE'),
+  ('requests.packages',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/packages.py',
+   'PYMODULE'),
+  ('requests.sessions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/sessions.py',
+   'PYMODULE'),
+  ('requests.status_codes',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/status_codes.py',
+   'PYMODULE'),
+  ('requests.structures',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/structures.py',
+   'PYMODULE'),
+  ('requests.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/requests/utils.py',
+   'PYMODULE'),
+  ('runpy', '/usr/lib/python3.12/runpy.py', 'PYMODULE'),
+  ('s3', '-', 'PYMODULE'),
+  ('s3.main',
+   '/home/pavel/Рабочий стол/projects/nude-scraper/s3/main.py',
+   'PYMODULE'),
+  ('s3transfer',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/__init__.py',
+   'PYMODULE'),
+  ('s3transfer.bandwidth',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/bandwidth.py',
+   'PYMODULE'),
+  ('s3transfer.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/compat.py',
+   'PYMODULE'),
+  ('s3transfer.constants',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/constants.py',
+   'PYMODULE'),
+  ('s3transfer.copies',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/copies.py',
+   'PYMODULE'),
+  ('s3transfer.crt',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/crt.py',
+   'PYMODULE'),
+  ('s3transfer.delete',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/delete.py',
+   'PYMODULE'),
+  ('s3transfer.download',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/download.py',
+   'PYMODULE'),
+  ('s3transfer.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/exceptions.py',
+   'PYMODULE'),
+  ('s3transfer.futures',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/futures.py',
+   'PYMODULE'),
+  ('s3transfer.manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/manager.py',
+   'PYMODULE'),
+  ('s3transfer.subscribers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/subscribers.py',
+   'PYMODULE'),
+  ('s3transfer.tasks',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/tasks.py',
+   'PYMODULE'),
+  ('s3transfer.upload',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/upload.py',
+   'PYMODULE'),
+  ('s3transfer.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/s3transfer/utils.py',
+   'PYMODULE'),
+  ('secrets', '/usr/lib/python3.12/secrets.py', 'PYMODULE'),
+  ('selectors', '/usr/lib/python3.12/selectors.py', 'PYMODULE'),
+  ('selenium',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/__init__.py',
+   'PYMODULE'),
+  ('selenium.common',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/common/__init__.py',
+   'PYMODULE'),
+  ('selenium.common.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/common/exceptions.py',
+   'PYMODULE'),
+  ('selenium.types',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/types.py',
+   'PYMODULE'),
+  ('selenium.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.remote_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chrome.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chrome/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.remote_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.chromium.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/chromium/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.action_chains',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/action_chains.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.action_builder',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/action_builder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.input_device',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/input_device.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.interaction',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/interaction.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_actions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/key_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.key_input',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/key_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.mouse_button',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/mouse_button.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_actions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/pointer_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.pointer_input',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/pointer_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.wheel_actions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/wheel_actions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.actions.wheel_input',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/actions/wheel_input.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.alert',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/alert.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.bidi',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/bidi/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.bidi.script',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/bidi/script.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.bidi.session',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/bidi/session.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.by',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/by.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.desired_capabilities',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/desired_capabilities.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.driver_finder',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/driver_finder.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.keys',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/keys.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.print_page_options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/print_page_options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.proxy',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/proxy.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.selenium_manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/selenium_manager.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.timeouts',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/timeouts.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.common.virtual_authenticator',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/common/virtual_authenticator.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/edge/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/edge/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.remote_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/edge/remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/edge/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.edge.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/edge/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_binary',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/firefox_binary.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.firefox_profile',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/firefox_profile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.remote_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.firefox.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/firefox/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/ie/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/ie/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/ie/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.ie.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/ie/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.bidi_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/bidi_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.command',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/command.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.errorhandler',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/errorhandler.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.file_detector',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/file_detector.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.mobile',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/mobile.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.remote_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.script_key',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/script_key.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.shadowroot',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/shadowroot.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.switch_to',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/switch_to.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/utils.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.webelement',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/webelement.py',
+   'PYMODULE'),
+  ('selenium.webdriver.remote.websocket_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/remote/websocket_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/safari/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/safari/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.remote_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/safari/remote_connection.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/safari/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.safari.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/safari/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/support/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.expected_conditions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/support/expected_conditions.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.relative_locator',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/support/relative_locator.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.select',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/support/select.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.ui',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/support/ui.py',
+   'PYMODULE'),
+  ('selenium.webdriver.support.wait',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/support/wait.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/webkitgtk/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/webkitgtk/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/webkitgtk/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.webkitgtk.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/webkitgtk/webdriver.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/wpewebkit/__init__.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.options',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/wpewebkit/options.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.service',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/wpewebkit/service.py',
+   'PYMODULE'),
+  ('selenium.webdriver.wpewebkit.webdriver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/selenium/webdriver/wpewebkit/webdriver.py',
+   'PYMODULE'),
+  ('shlex', '/usr/lib/python3.12/shlex.py', 'PYMODULE'),
+  ('shutil', '/usr/lib/python3.12/shutil.py', 'PYMODULE'),
+  ('signal', '/usr/lib/python3.12/signal.py', 'PYMODULE'),
+  ('six',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/six.py',
+   'PYMODULE'),
+  ('socket', '/usr/lib/python3.12/socket.py', 'PYMODULE'),
+  ('socks',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/socks.py',
+   'PYMODULE'),
+  ('ssl', '/usr/lib/python3.12/ssl.py', 'PYMODULE'),
+  ('statistics', '/usr/lib/python3.12/statistics.py', 'PYMODULE'),
+  ('string', '/usr/lib/python3.12/string.py', 'PYMODULE'),
+  ('stringprep', '/usr/lib/python3.12/stringprep.py', 'PYMODULE'),
+  ('subprocess', '/usr/lib/python3.12/subprocess.py', 'PYMODULE'),
+  ('sysconfig', '/usr/lib/python3.12/sysconfig.py', 'PYMODULE'),
+  ('tarfile', '/usr/lib/python3.12/tarfile.py', 'PYMODULE'),
+  ('tempfile', '/usr/lib/python3.12/tempfile.py', 'PYMODULE'),
+  ('textwrap', '/usr/lib/python3.12/textwrap.py', 'PYMODULE'),
+  ('threading', '/usr/lib/python3.12/threading.py', 'PYMODULE'),
+  ('token', '/usr/lib/python3.12/token.py', 'PYMODULE'),
+  ('tokenize', '/usr/lib/python3.12/tokenize.py', 'PYMODULE'),
+  ('tomli',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/tomli/__init__.py',
+   'PYMODULE'),
+  ('tomli._parser',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/tomli/_parser.py',
+   'PYMODULE'),
+  ('tomli._re',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/tomli/_re.py',
+   'PYMODULE'),
+  ('tomli._types',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/tomli/_types.py',
+   'PYMODULE'),
+  ('tomllib', '/usr/lib/python3.12/tomllib/__init__.py', 'PYMODULE'),
+  ('tomllib._parser', '/usr/lib/python3.12/tomllib/_parser.py', 'PYMODULE'),
+  ('tomllib._re', '/usr/lib/python3.12/tomllib/_re.py', 'PYMODULE'),
+  ('tomllib._types', '/usr/lib/python3.12/tomllib/_types.py', 'PYMODULE'),
+  ('tracemalloc', '/usr/lib/python3.12/tracemalloc.py', 'PYMODULE'),
+  ('typing', '/usr/lib/python3.12/typing.py', 'PYMODULE'),
+  ('typing_extensions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/typing_extensions.py',
+   'PYMODULE'),
+  ('urllib', '/usr/lib/python3.12/urllib/__init__.py', 'PYMODULE'),
+  ('urllib.error', '/usr/lib/python3.12/urllib/error.py', 'PYMODULE'),
+  ('urllib.parse', '/usr/lib/python3.12/urllib/parse.py', 'PYMODULE'),
+  ('urllib.request', '/usr/lib/python3.12/urllib/request.py', 'PYMODULE'),
+  ('urllib.response', '/usr/lib/python3.12/urllib/response.py', 'PYMODULE'),
+  ('urllib3',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/__init__.py',
+   'PYMODULE'),
+  ('urllib3._base_connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/_base_connection.py',
+   'PYMODULE'),
+  ('urllib3._collections',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/_collections.py',
+   'PYMODULE'),
+  ('urllib3._request_methods',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/_request_methods.py',
+   'PYMODULE'),
+  ('urllib3._version',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/_version.py',
+   'PYMODULE'),
+  ('urllib3.connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/connection.py',
+   'PYMODULE'),
+  ('urllib3.connectionpool',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/connectionpool.py',
+   'PYMODULE'),
+  ('urllib3.contrib',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/emscripten/__init__.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/emscripten/connection.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.fetch',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/emscripten/fetch.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.request',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/emscripten/request.py',
+   'PYMODULE'),
+  ('urllib3.contrib.emscripten.response',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/emscripten/response.py',
+   'PYMODULE'),
+  ('urllib3.contrib.pyopenssl',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/pyopenssl.py',
+   'PYMODULE'),
+  ('urllib3.contrib.socks',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/contrib/socks.py',
+   'PYMODULE'),
+  ('urllib3.exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/exceptions.py',
+   'PYMODULE'),
+  ('urllib3.fields',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/fields.py',
+   'PYMODULE'),
+  ('urllib3.filepost',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/filepost.py',
+   'PYMODULE'),
+  ('urllib3.poolmanager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/poolmanager.py',
+   'PYMODULE'),
+  ('urllib3.response',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/response.py',
+   'PYMODULE'),
+  ('urllib3.util',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/__init__.py',
+   'PYMODULE'),
+  ('urllib3.util.connection',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/connection.py',
+   'PYMODULE'),
+  ('urllib3.util.proxy',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/proxy.py',
+   'PYMODULE'),
+  ('urllib3.util.request',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/request.py',
+   'PYMODULE'),
+  ('urllib3.util.response',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/response.py',
+   'PYMODULE'),
+  ('urllib3.util.retry',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/retry.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/ssl_.py',
+   'PYMODULE'),
+  ('urllib3.util.ssl_match_hostname',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/ssl_match_hostname.py',
+   'PYMODULE'),
+  ('urllib3.util.ssltransport',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/ssltransport.py',
+   'PYMODULE'),
+  ('urllib3.util.timeout',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/timeout.py',
+   'PYMODULE'),
+  ('urllib3.util.url',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/url.py',
+   'PYMODULE'),
+  ('urllib3.util.util',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/util.py',
+   'PYMODULE'),
+  ('urllib3.util.wait',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/urllib3/util/wait.py',
+   'PYMODULE'),
+  ('uuid', '/usr/lib/python3.12/uuid.py', 'PYMODULE'),
+  ('webdriver_manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/__init__.py',
+   'PYMODULE'),
+  ('webdriver_manager.core',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/__init__.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.archive',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/archive.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.config',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/config.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.constants',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/constants.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.download_manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/download_manager.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.driver',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/driver.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.driver_cache',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/driver_cache.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.file_manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/file_manager.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.http',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/http.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.logger',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/logger.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/manager.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.os_manager',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/os_manager.py',
+   'PYMODULE'),
+  ('webdriver_manager.core.utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/core/utils.py',
+   'PYMODULE'),
+  ('webdriver_manager.drivers',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/drivers/__init__.py',
+   'PYMODULE'),
+  ('webdriver_manager.drivers.firefox',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/drivers/firefox.py',
+   'PYMODULE'),
+  ('webdriver_manager.firefox',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/webdriver_manager/firefox.py',
+   'PYMODULE'),
+  ('websocket',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/__init__.py',
+   'PYMODULE'),
+  ('websocket._abnf',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_abnf.py',
+   'PYMODULE'),
+  ('websocket._app',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_app.py',
+   'PYMODULE'),
+  ('websocket._cookiejar',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_cookiejar.py',
+   'PYMODULE'),
+  ('websocket._core',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_core.py',
+   'PYMODULE'),
+  ('websocket._exceptions',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_exceptions.py',
+   'PYMODULE'),
+  ('websocket._handshake',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_handshake.py',
+   'PYMODULE'),
+  ('websocket._http',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_http.py',
+   'PYMODULE'),
+  ('websocket._logging',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_logging.py',
+   'PYMODULE'),
+  ('websocket._socket',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_socket.py',
+   'PYMODULE'),
+  ('websocket._ssl_compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_ssl_compat.py',
+   'PYMODULE'),
+  ('websocket._url',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_url.py',
+   'PYMODULE'),
+  ('websocket._utils',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/websocket/_utils.py',
+   'PYMODULE'),
+  ('xml', '/usr/lib/python3.12/xml/__init__.py', 'PYMODULE'),
+  ('xml.dom', '/usr/lib/python3.12/xml/dom/__init__.py', 'PYMODULE'),
+  ('xml.dom.NodeFilter',
+   '/usr/lib/python3.12/xml/dom/NodeFilter.py',
+   'PYMODULE'),
+  ('xml.dom.domreg', '/usr/lib/python3.12/xml/dom/domreg.py', 'PYMODULE'),
+  ('xml.dom.expatbuilder',
+   '/usr/lib/python3.12/xml/dom/expatbuilder.py',
+   'PYMODULE'),
+  ('xml.dom.minicompat',
+   '/usr/lib/python3.12/xml/dom/minicompat.py',
+   'PYMODULE'),
+  ('xml.dom.minidom', '/usr/lib/python3.12/xml/dom/minidom.py', 'PYMODULE'),
+  ('xml.dom.pulldom', '/usr/lib/python3.12/xml/dom/pulldom.py', 'PYMODULE'),
+  ('xml.dom.xmlbuilder',
+   '/usr/lib/python3.12/xml/dom/xmlbuilder.py',
+   'PYMODULE'),
+  ('xml.etree', '/usr/lib/python3.12/xml/etree/__init__.py', 'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   '/usr/lib/python3.12/xml/etree/ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   '/usr/lib/python3.12/xml/etree/ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   '/usr/lib/python3.12/xml/etree/ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   '/usr/lib/python3.12/xml/etree/cElementTree.py',
+   'PYMODULE'),
+  ('xml.parsers', '/usr/lib/python3.12/xml/parsers/__init__.py', 'PYMODULE'),
+  ('xml.parsers.expat', '/usr/lib/python3.12/xml/parsers/expat.py', 'PYMODULE'),
+  ('xml.sax', '/usr/lib/python3.12/xml/sax/__init__.py', 'PYMODULE'),
+  ('xml.sax._exceptions',
+   '/usr/lib/python3.12/xml/sax/_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   '/usr/lib/python3.12/xml/sax/expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.handler', '/usr/lib/python3.12/xml/sax/handler.py', 'PYMODULE'),
+  ('xml.sax.saxutils', '/usr/lib/python3.12/xml/sax/saxutils.py', 'PYMODULE'),
+  ('xml.sax.xmlreader', '/usr/lib/python3.12/xml/sax/xmlreader.py', 'PYMODULE'),
+  ('xmlrpc', '/usr/lib/python3.12/xmlrpc/__init__.py', 'PYMODULE'),
+  ('xmlrpc.client', '/usr/lib/python3.12/xmlrpc/client.py', 'PYMODULE'),
+  ('zipfile', '/usr/lib/python3.12/zipfile/__init__.py', 'PYMODULE'),
+  ('zipfile._path',
+   '/usr/lib/python3.12/zipfile/_path/__init__.py',
+   'PYMODULE'),
+  ('zipfile._path.glob',
+   '/usr/lib/python3.12/zipfile/_path/glob.py',
+   'PYMODULE'),
+  ('zipimport', '/usr/lib/python3.12/zipimport.py', 'PYMODULE'),
+  ('zipp',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/zipp/__init__.py',
+   'PYMODULE'),
+  ('zipp.compat',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/zipp/compat/__init__.py',
+   'PYMODULE'),
+  ('zipp.compat.py310',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/zipp/compat/py310.py',
+   'PYMODULE'),
+  ('zipp.glob',
+   '/home/pavel/Рабочий '
+   'стол/projects/nude-scraper/venv/lib/python3.12/site-packages/setuptools/_vendor/zipp/glob.py',
+   'PYMODULE')])

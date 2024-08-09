@@ -1,4 +1,6 @@
+fake_useragent
 selenium
+webdriver_manager
 requests
 botocore
 boto3

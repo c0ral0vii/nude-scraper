@@ -45,3 +45,32 @@ class S3_Client:
                     logger.error('Incomplete credentials provided')
         logger.info('Начинаем очистку файлов')
         clean_temp_folder()
+    
+    def get_blacklist(self):
+        '''
+        Получение уже загруженных моделей
+        '''
+        try:
+            paginator = self.s3_client.get_paginator('list_objects_v2')
+            page_iterator = paginator.paginate(Bucket=self.bucket_name)
+            
+            folders = set()
+            for page in page_iterator:
+                if 'Contents' in page:
+                    for obj in page['Contents']:
+                        key = obj['Key']
+                        if '/' in key:
+                            folder = key.split('/')[0]
+                            folders.add(folder)
+            
+            return list(folders)
+        
+        except NoCredentialsError:
+            logger.error('Credentials not available')
+            return []
+        except PartialCredentialsError:
+            logger.error('Incomplete credentials provided')
+            return []
+        except Exception as e:
+            logger.error(f'Error retrieving blacklist: {e}')
+            return []
